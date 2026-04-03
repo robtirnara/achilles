@@ -1,0 +1,171 @@
+[
+  {
+    "id": "ppl-3day",
+    "name": "Push / Pull / Legs",
+    "category": "Hypertrophy",
+    "goalTags": ["Bulk", "Recomp", "Maintain"],
+    "difficulty": "Intermediate",
+    "daysPerWeek": 3,
+    "description": "Classic 3-day split hitting push muscles, pull muscles, and legs each once per week. Great starting point for intermediate lifters.",
+    "exercises": [
+      {"name": "Barbell Bench Press", "sets": 4, "reps": "8-10", "restSeconds": 120},
+      {"name": "Overhead Press", "sets": 3, "reps": "8-10", "restSeconds": 90},
+      {"name": "Incline Dumbbell Press", "sets": 3, "reps": "10-12", "restSeconds": 90},
+      {"name": "Lateral Raise", "sets": 3, "reps": "12-15", "restSeconds": 60},
+      {"name": "Tricep Pushdown", "sets": 3, "reps": "10-12", "restSeconds": 60},
+      {"name": "Overhead Tricep Extension", "sets": 3, "reps": "10-12", "restSeconds": 60}
+    ]
+  },
+  {
+    "id": "ppl-6day",
+    "name": "Push / Pull / Legs (6-Day)",
+    "category": "Hypertrophy",
+    "goalTags": ["Bulk", "Recomp"],
+    "difficulty": "Advanced",
+    "daysPerWeek": 6,
+    "description": "High-frequency PPL run twice per week. Each muscle group hit 2x for maximum hypertrophy stimulus.",
+    "exercises": [
+      {"name": "Barbell Bench Press", "sets": 4, "reps": "6-8", "restSeconds": 150},
+      {"name": "Overhead Press", "sets": 4, "reps": "8-10", "restSeconds": 120},
+      {"name": "Dumbbell Fly", "sets": 3, "reps": "12-15", "restSeconds": 60},
+      {"name": "Lateral Raise", "sets": 4, "reps": "12-15", "restSeconds": 60},
+      {"name": "Skull Crusher", "sets": 3, "reps": "10-12", "restSeconds": 60}
+    ]
+  },
+  {
+    "id": "upper-lower-4day",
+    "name": "Upper / Lower Split",
+    "category": "Strength",
+    "goalTags": ["Bulk", "Recomp", "Maintain", "Performance"],
+    "difficulty": "Intermediate",
+    "daysPerWeek": 4,
+    "description": "4-day upper/lower split balancing strength and hypertrophy. Each muscle group hit 2x per week.",
+    "exercises": [
+      {"name": "Barbell Bench Press", "sets": 4, "reps": "6-8", "restSeconds": 150},
+      {"name": "Barbell Row", "sets": 4, "reps": "6-8", "restSeconds": 120},
+      {"name": "Overhead Press", "sets": 3, "reps": "8-10", "restSeconds": 90},
+      {"name": "Lat Pulldown", "sets": 3, "reps": "10-12", "restSeconds": 90},
+      {"name": "Dumbbell Curl", "sets": 3, "reps": "10-12", "restSeconds": 60},
+      {"name": "Tricep Pushdown", "sets": 3, "reps": "10-12", "restSeconds": 60}
+    ]
+  },
+  {
+    "id": "full-body-3day",
+    "name": "Full Body 3x/Week",
+    "category": "General",
+    "goalTags": ["Cut", "Maintain", "Recomp"],
+    "difficulty": "Beginner",
+    "daysPerWeek": 3,
+    "description": "Efficient full body training 3 days per week. Perfect for beginners or those on a cut wanting to maintain muscle with minimal volume.",
+    "exercises": [
+      {"name": "Barbell Back Squat", "sets": 3, "reps": "8-10", "restSeconds": 150},
+      {"name": "Barbell Bench Press", "sets": 3, "reps": "8-10", "restSeconds": 120},
+      {"name": "Barbell Row", "sets": 3, "reps": "8-10", "restSeconds": 120},
+      {"name": "Overhead Press", "sets": 3, "reps": "10-12", "restSeconds": 90},
+      {"name": "Romanian Deadlift", "sets": 3, "reps": "10-12", "restSeconds": 90},
+      {"name": "Plank", "sets": 3, "reps": "60s hold", "restSeconds": 60}
+    ]
+  },
+  {
+    "id": "strength-531",
+    "name": "5/3/1 Inspired",
+    "category": "Strength",
+    "goalTags": ["Performance", "Bulk", "Maintain"],
+    "difficulty": "Intermediate",
+    "daysPerWeek": 4,
+    "description": "Percentage-based progression on the big 4 lifts. Slow, steady strength gains with sub-maximal training.",
+    "exercises": [
+      {"name": "Barbell Back Squat", "sets": 3, "reps": "5/3/1", "restSeconds": 180},
+      {"name": "Barbell Bench Press", "sets": 3, "reps": "5/3/1", "restSeconds": 180},
+      {"name": "Conventional Deadlift", "sets": 3, "reps": "5/3/1", "restSeconds": 180},
+      {"name": "Overhead Press", "sets": 3, "reps": "5/3/1", "restSeconds": 180},
+      {"name": "Lat Pulldown", "sets": 5, "reps": "10", "restSeconds": 60},
+      {"name": "Dumbbell Curl", "sets": 3, "reps": "12-15", "restSeconds": 60}
+    ]
+  },
+  {
+    "id": "cut-circuit",
+    "name": "Fat Loss Circuit",
+    "category": "Conditioning",
+    "goalTags": ["Cut"],
+    "difficulty": "Intermediate",
+    "daysPerWeek": 3,
+    "description": "High-intensity circuit training designed to maximize calorie burn while preserving muscle during a cut.",
+    "exercises": [
+      {"name": "Kettlebell Swing", "sets": 4, "reps": "15", "restSeconds": 30},
+      {"name": "Goblet Squat", "sets": 4, "reps": "12", "restSeconds": 30},
+      {"name": "Push-Up", "sets": 4, "reps": "15", "restSeconds": 30},
+      {"name": "Barbell Row", "sets": 4, "reps": "12", "restSeconds": 30},
+      {"name": "Mountain Climber", "sets": 4, "reps": "20 each", "restSeconds": 30},
+      {"name": "Burpee", "sets": 4, "reps": "10", "restSeconds": 60}
+    ]
+  },
+  {
+    "id": "athletic-performance",
+    "name": "Athletic Performance",
+    "category": "Performance",
+    "goalTags": ["Performance"],
+    "difficulty": "Advanced",
+    "daysPerWeek": 4,
+    "description": "Combines strength, power, and conditioning for overall athletic performance. Explosive movements and compound lifts.",
+    "exercises": [
+      {"name": "Power Clean", "sets": 5, "reps": "3", "restSeconds": 180},
+      {"name": "Barbell Back Squat", "sets": 4, "reps": "5", "restSeconds": 150},
+      {"name": "Box Jump", "sets": 4, "reps": "5", "restSeconds": 90},
+      {"name": "Barbell Bench Press", "sets": 4, "reps": "5", "restSeconds": 120},
+      {"name": "Pull-Up", "sets": 4, "reps": "8-10", "restSeconds": 90},
+      {"name": "Farmer's Carry", "sets": 3, "reps": "40m", "restSeconds": 90}
+    ]
+  },
+  {
+    "id": "bodyweight-home",
+    "name": "Bodyweight Home Workout",
+    "category": "General",
+    "goalTags": ["Cut", "Maintain", "Recomp"],
+    "difficulty": "Beginner",
+    "daysPerWeek": 3,
+    "description": "No equipment needed. Full body training you can do anywhere with just your bodyweight.",
+    "exercises": [
+      {"name": "Push-Up", "sets": 4, "reps": "15-20", "restSeconds": 60},
+      {"name": "Goblet Squat", "sets": 4, "reps": "15", "restSeconds": 60},
+      {"name": "Burpee", "sets": 3, "reps": "10", "restSeconds": 60},
+      {"name": "Plank", "sets": 3, "reps": "45-60s", "restSeconds": 45},
+      {"name": "Walking Lunge", "sets": 3, "reps": "12 each", "restSeconds": 60},
+      {"name": "Mountain Climber", "sets": 3, "reps": "20 each", "restSeconds": 45}
+    ]
+  },
+  {
+    "id": "powerbuilding",
+    "name": "Powerbuilding",
+    "category": "Strength",
+    "goalTags": ["Bulk", "Recomp", "Performance"],
+    "difficulty": "Advanced",
+    "daysPerWeek": 5,
+    "description": "Blend of powerlifting and bodybuilding. Heavy compound lifts followed by hypertrophy accessories.",
+    "exercises": [
+      {"name": "Barbell Back Squat", "sets": 5, "reps": "5", "restSeconds": 180},
+      {"name": "Conventional Deadlift", "sets": 5, "reps": "3", "restSeconds": 180},
+      {"name": "Barbell Bench Press", "sets": 5, "reps": "5", "restSeconds": 150},
+      {"name": "Barbell Row", "sets": 4, "reps": "8", "restSeconds": 120},
+      {"name": "Dumbbell Shoulder Press", "sets": 4, "reps": "10-12", "restSeconds": 90},
+      {"name": "Barbell Curl", "sets": 3, "reps": "10-12", "restSeconds": 60},
+      {"name": "Skull Crusher", "sets": 3, "reps": "10-12", "restSeconds": 60}
+    ]
+  },
+  {
+    "id": "maintain-2day",
+    "name": "Minimal Maintenance",
+    "category": "General",
+    "goalTags": ["Maintain", "Cut"],
+    "difficulty": "Beginner",
+    "daysPerWeek": 2,
+    "description": "Minimal effective dose for maintaining muscle. Just 2 full-body sessions per week covering all major patterns.",
+    "exercises": [
+      {"name": "Barbell Back Squat", "sets": 3, "reps": "8", "restSeconds": 150},
+      {"name": "Barbell Bench Press", "sets": 3, "reps": "8", "restSeconds": 120},
+      {"name": "Barbell Row", "sets": 3, "reps": "8", "restSeconds": 120},
+      {"name": "Romanian Deadlift", "sets": 3, "reps": "10", "restSeconds": 90},
+      {"name": "Dumbbell Shoulder Press", "sets": 2, "reps": "10", "restSeconds": 60}
+    ]
+  }
+]

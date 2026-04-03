@@ -1,0 +1,26 @@
+# Xcode user data
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Build artifacts
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xcode state files
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Firebase
+GoogleService-Info.plist
