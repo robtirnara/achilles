@@ -71,7 +71,7 @@ struct OnboardingView: View {
                 .aspectRatio(contentMode: .fit)
                 .frame(height: 120)
 
-            Text("ACHILLES")
+            Text("ACHILLES HQ")
                 .font(Theme.heading(42))
                 .foregroundStyle(Theme.textPrimary)
                 .tracking(8)
